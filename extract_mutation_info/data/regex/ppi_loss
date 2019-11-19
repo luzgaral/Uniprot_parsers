@@ -1,0 +1,85 @@
+not bind.*
+aboli.* binding
+aboli.* dimerization, interaction 
+aboli.* interaction
+aboli.* phosphorylation
+aboli.* phosphorylation, interaction 
+abrogat.* binding
+abrogat.* interaction 
+abrogat.* phosphorylation
+abrogat.* phosphorylation, interaction 
+affec.* binding
+affec.* interaction 
+affec.* phosphorylation
+affec.* phosphorylation, interaction 
+alte.* binding
+alte.* interaction 
+alte.* phosphorylation
+alte.* phosphorylation, interaction 
+bloc.* binding
+bloc.* interaction 
+bloc.* phosphorylation
+bloc.* phosphorylation, interaction 
+decreas.* binding
+decreas.* interaction
+decreas.* interaction 
+decreas.* phosphorylation
+decreas.* phosphorylation, interaction 
+dimini.* binding
+dimini.* interaction 
+dimini.* phosphorylation
+dimini.* phosphorylation, interaction 
+disrup.* binding
+disrup.* interaction 
+disrup.* phosphorylation
+disrup.* phosphorylation, interaction
+effect .* binding
+effect .* interaction 
+effect .* phosphorylation
+impai.* binding
+impai.* interaction 
+impai.* phosphorylation
+impai.* phosphorylation, interaction 
+inhibi.* binding
+inhibi.* interaction 
+inhibition of binding
+inhibition of interaction
+inhibition of phosphorylation
+inhibi.* phosphorylation
+inhibi.* phosphorylation, interaction 
+los.* binding
+los.* interaction
+los.* interaction 
+los.* phosphorylation
+los.* phosphorylation, interaction 
+lowers .* binding
+lowers .* interaction 
+lowers .* phosphorylation
+lowers binding
+lowers interaction 
+lowers phosphorylation
+lowers phosphorylation, interaction 
+no binding
+no interaction 
+no phosphorylation
+no phosphorylation, interaction 
+not binding
+not interaction 
+not phosphorylation
+not phosphorylation, interaction 
+preven.* binding
+preven.* interaction 
+preven.* phosphorylation
+preven.* phosphorylation, interaction 
+repres.* binding
+repres.* dimerization, interaction
+repres.* interaction
+repres.* phosphorylation
+repres.* phosphorylation, interaction
+reduc.* binding
+reduc.* dimerization, interaction 
+reduc.* interaction 
+reduc.* phosphorylation
+reduc.* phosphorylation, interaction 
+no phosphorylated
+not phosphorylated

@@ -1,0 +1,31 @@
+results in gain of function causing enhanced 
+abolish\w{1,}
+abrogat\w{1,}
+accumu\w{1,}
+affect\w{1,}
+alter\w{1,}
+block\w{1,}
+catalytically inactive
+deca\w{1,}
+decreas\w{1,}
+([\d-]*\d+)% decreas\w{1,}
+destabiliz\w{1,}
+defect\w{1,}
+dimini\w{1,}
+disrup\w{1,}
+disturb\w{1,}
+elevat\w{1,}
+enhanc\w{1,}
+enrich\w{1,}
+fail\w{1,}
+impai\w{1,}
+increas\w{1,}
+induc\w{1,}
+inhibi\w{1,}
+is not associated
+is associated
+los\w{1,}
+preven\w{1,}
+produce\w{1,}
+promot\w{1,}
+reduc\w{1,}

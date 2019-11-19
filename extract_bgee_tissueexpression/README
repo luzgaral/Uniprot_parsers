@@ -1,0 +1,3 @@
+
+#Run code using the conda enviroment py2 which calls python2.7 with the required packages
+$ source activate py2
